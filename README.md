@@ -1,20 +1,7 @@
-# income-and-expense-tracker
+# How to install
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+### clone this repository
+### use this command in your terminal
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# income-and-expense-tracker
